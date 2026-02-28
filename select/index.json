@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グッバイバッドボーイ",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2026-02-28T10:56:05.112648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッバイバッドボーイ",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_グッバイバッドボーイ_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
